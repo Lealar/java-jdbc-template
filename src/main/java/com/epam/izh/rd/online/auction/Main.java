@@ -1,4 +1,5 @@
-package com.epam.izh.rd.online.autcion;
+package com.epam.izh.rd.online.auction;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
